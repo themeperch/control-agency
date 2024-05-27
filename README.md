@@ -3,6 +3,8 @@ Take Control of Your **Projects**, **Career**, **Services** & **Team members** â
 
 by [Themeperch](https://themeperch.net/)
 
+### [Plugin Documentation](https://github.com/themeperch/control-projects/wiki/)
+
 ### [Theme Integration](https://github.com/themeperch/control-projects/wiki/Theme-Integration)
 
 ### [Function references](https://github.com/themeperch/control-projects/wiki/Function-references)
